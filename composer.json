@@ -1,0 +1,16 @@
+{
+    "name": "wechat/component",
+    "description": "wechat component",
+    "authors": [
+        {
+            "name": "gongyuanyi",
+            "email": "pekoe_0210@sina.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        }
+    },
+    "require": {}
+}
