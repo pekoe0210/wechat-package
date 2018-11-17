@@ -1,6 +1,6 @@
 <?php
 
-namespace Wechat\Component;
+namespace pekoe\wechat;
 
 
 use think\facade\Log;
